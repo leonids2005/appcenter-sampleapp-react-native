@@ -18,3 +18,4 @@ public class MainActivity extends ReactActivity {
         AppCenter.start(getApplication(), "4ee2726a-0cd1-408c-b1db-b39353006784",
                 Analytics.class, Crashes.class);
     }
+}
